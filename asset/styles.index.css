@@ -39,8 +39,8 @@ header {
     border-radius:6px;
     height: 150px;
     display: flex;
-    flex-direction:column;
-    justify-content:center;
+    flex-direction:row;
+    justify-content:space-around;
     align-items: center;
 
 
@@ -80,5 +80,11 @@ footer a {
     color: antiquewhite;
     text-decoration: nome;
     font-weight: 500;
-    bonder-bottom:1px solid
+    bonder-bottom:1px 
+}
+
+#profile-image {
+    height:120px;
+    width:120px;
+    border-radius:50%;
 }
