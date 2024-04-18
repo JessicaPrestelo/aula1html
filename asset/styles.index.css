@@ -60,3 +60,25 @@ border-radius: 6px;
 width: 25%;
 
 }
+
+footer {
+    background-color: rgb(187, 187, 186);
+    border-radius: 6px;
+    margin: 10px 0;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+font-size: 1.2rem;
+color: black;
+}
+footer a {
+    color: antiquewhite;
+    text-decoration: nome;
+    font-weight: 500;
+    bonder-bottom:1px solid
+}
